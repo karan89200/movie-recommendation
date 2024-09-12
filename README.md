@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/fd95c84e-a9dd-48af-ab1a-ac0a2dfb7f03
+
 # 🎥 Movie Recommendation System
 
 Welcome to the **Movie Recommendation System** repository! This project is built using **Streamlit** and recommends movies based on similarity measures. It’s easy to use—just input a movie, and the system will suggest similar movies!
